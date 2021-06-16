@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-module github.com/open-telemetry/opentelemetry-collector-builder
+module github.com/pmalek-sumo/opentelemetry-collector-builder
 
 go 1.16
 

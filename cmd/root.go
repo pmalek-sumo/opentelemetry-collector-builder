@@ -21,7 +21,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/open-telemetry/opentelemetry-collector-builder/internal/builder"
+	"github.com/pmalek-sumo/opentelemetry-collector-builder/internal/builder"
 )
 
 var (

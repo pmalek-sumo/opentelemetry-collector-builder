@@ -23,7 +23,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/open-telemetry/opentelemetry-collector-builder/internal/scaffold"
+	"github.com/pmalek-sumo/opentelemetry-collector-builder/internal/scaffold"
 )
 
 var (
